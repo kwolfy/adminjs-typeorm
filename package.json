@@ -1,0 +1,14 @@
+{
+  "name": "adminjs-typeorm2",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "adminjs": "^6.5.0",
+    "typeorm": "^0.3.10"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
